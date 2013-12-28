@@ -1,0 +1,1 @@
+mklink "C:\Users\dylan\AppData\Roaming\Sublime Text 3\Packages\User\function_nav.py" "C:\Home\Projects\sublime-plugins\function_nav.py"
